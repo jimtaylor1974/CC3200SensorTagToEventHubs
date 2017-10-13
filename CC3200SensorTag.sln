@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC3200SensorTag", "CC3200SensorTag\CC3200SensorTag.csproj", "{AD6C1CB2-B140-477D-B466-4D8C495B806F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC3200SensorTag.ConsoleApp", "CC3200SensorTag.ConsoleApp\CC3200SensorTag.ConsoleApp.csproj", "{D4D394A0-6E35-4EB1-9F3F-9FBA0259DBDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6C1CB2-B140-477D-B466-4D8C495B806F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6C1CB2-B140-477D-B466-4D8C495B806F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6C1CB2-B140-477D-B466-4D8C495B806F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6C1CB2-B140-477D-B466-4D8C495B806F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D394A0-6E35-4EB1-9F3F-9FBA0259DBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D394A0-6E35-4EB1-9F3F-9FBA0259DBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D394A0-6E35-4EB1-9F3F-9FBA0259DBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D394A0-6E35-4EB1-9F3F-9FBA0259DBDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {444A1D42-F335-4175-85E1-BBACDC68EB2C}
+	EndGlobalSection
+EndGlobal
